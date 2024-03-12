@@ -11,8 +11,7 @@
 ## Overview
 
 
-ANTARI is 3x4 macropad with rotary encoders. The rotary encoder also outputs midi signal when the keyboard is switched to 'Lightroom' dedicated layer, once you pressed an letter key the knob will output a midi cc signal with different parameter, which allows you use a knob to adjust up to 45 sliders in lightroom with Lightroom keymap, most importantly, the value will not jump or jitter, oppositely it moves relatively and smoothly. The oled screen will show you the last letter key you pressed and every information you need. For detailed demo you can visit my youtube [video](https://www.youtube.com/watch?v=S6qfb3bq990&t=147s&ab_channel=Synthvestigator).
-
+ANTARI rp2040 is a 3x4 macropad with rotary encoders and BLE support. 
 
 Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezkombet) 
 
@@ -32,12 +31,10 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 
 ## Features
 
-
-- Cheap to build.
 - Easy to source components.
 - Easy to build.
 - MX style switch and Kailh low profile V2 switch compatible
-- Rpi Pico powered.
+- Seeeduino xiao rp2040/nrf52840 powered.
 - QMK compatible.
 - RGB support .
 - Rotary encoder support.
@@ -50,7 +47,8 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 |Parts|Footprint|Quantity|
 |:---|:---|:---|
 |Sk6812 mini RGB LED |5050|12|
-|MX switch |3 or 5 pin|16|
+|MX switch |3 or 5 pin|12|
+|Hotswap socket |kailh or similiar |12|
 |1N4148 diode |SOD-123 or axial|12|
 |Rotary encoder|EC11|1|
 |Seeeduino Xiao |rp2040/nrf52840|1|
