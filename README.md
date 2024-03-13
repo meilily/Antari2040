@@ -15,9 +15,7 @@ ANTARI rp2040 is a 3x4 macropad with rotary encoders and BLE support.
 
 Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezkombet) 
 
-
-![DSC04814](https://user-images.githubusercontent.com/82454371/150683198-763633a3-3cf9-430c-b591-c8792491a326.jpg)
-
+![IMG_20240311_163237](https://github.com/nendezkombet/Antari2040/assets/82454371/8820e1d6-5482-40e7-9e75-e3970bcff19c)
 
 
 
