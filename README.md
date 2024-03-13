@@ -19,14 +19,6 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 ![DSC04814](https://user-images.githubusercontent.com/82454371/150683198-763633a3-3cf9-430c-b591-c8792491a326.jpg)
 
 
-![DSC04928](https://user-images.githubusercontent.com/82454371/150683229-19ea3598-54ea-492d-80c4-f1207aff4052.jpg)
-
-
-![DSC04907](https://user-images.githubusercontent.com/82454371/150683426-ec4313ed-1113-466e-a5df-8ba9de567542.jpg)
-
-
-![DSC04946](https://user-images.githubusercontent.com/82454371/150683489-f00e6025-abc8-47e6-862c-dd597199564c.jpg)
-
 
 
 ## Features
@@ -79,10 +71,10 @@ The firmware is fully QMK, see [build environment setup](https://docs.qmk.fm/#/g
 
 ## Firmware flashing :
 
-Open QMK Toolbox and locate The .hex file you compiled before or use ready flash default keymap
+Drag and drop .uf2 file to pop-up folder after enter bootloader
 
 ## Enter the bootloader :
 
-Press the button twice on the back of the PCB than hit flash 
+Press the reset button twice on the MCU  
 
 
