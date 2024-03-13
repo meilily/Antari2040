@@ -24,8 +24,8 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 - Easy to source components.
 - Easy to build.
 - MX style switch and Kailh low profile V2 switch compatible
-- Seeeduino xiao rp2040/nrf52840 powered.
-- QMK compatible.
+- Seeeduino xiao rp2040/nrf52840 as main MCU.
+- QMK powered.
 - RGB support .
 - Rotary encoder support.
 - Completely open-source.
@@ -44,7 +44,7 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 |Seeeduino Xiao |rp2040/nrf52840|1|
 |220ohm resistor|0805 or axial|1|
 |Micro slide switch (optional)|MSS22D18 |1|
-|3.7v battery (optional) ||1|
+|3.7v battery (optional) |3mm thick|1|
 |6mm M2 "FEMALE TO FEMALE" brass standoff|round |4|
 |5mm M2 screw |round |8|
 
