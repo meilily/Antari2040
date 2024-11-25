@@ -24,7 +24,7 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 - Easy to source components.
 - Easy to build.
 - MX style switch and Kailh low profile V2 switch compatible
-- Seeeduino xiao rp2040/nrf52840 as main MCU.
+- Seeed Studio XIAO RP2040/nRF52840 as main MCU.
 - QMK powered.
 - RGB support .
 - Rotary encoder support.
@@ -41,7 +41,7 @@ Designer and maintainer: [sandipratama/nendezkombet](https://github.com/nendezko
 |Hotswap socket |kailh or similiar |12|
 |1N4148 diode |SOD-123 or axial|12|
 |Rotary encoder|EC11|1|
-|Seeeduino Xiao |rp2040/nrf52840|1|
+|Seeed Studio XIAO |[RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html)/[nRF52840](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html)|1|
 |220ohm resistor|0805 or axial|1|
 |Micro slide switch (optional)|MSS22D18 |1|
 |3.7v battery (optional) |3mm thick|1|
